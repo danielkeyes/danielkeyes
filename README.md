@@ -31,22 +31,6 @@ I love dogs. I am newly vegetarian(1+ year).
 - [Linkedin - danielkeyesdev](https://www.linkedin.com/in/danielkeyesdev/)
 - [Twitter - danielkeyesdev](https://twitter.com/danielkeyesdev)
 
-## The Reveal App
-
-
-<img src="./img/TheRevealPlayStoreIcon.png" alt="drawing" width="100"/>
-
-[//]: # (![]&#40;/img/TheRevealPlayStoreIcon.png&#41;)
-
-I created this app as a way share my child’s birth reveal. I thought this would be a fun way to announce the birth details of mine and my wife’s first child.
-
-I also wanted to get some practice taking an App all the way from initial idea to the Android app store.
-
-Currently the app is only in open testing, and since it was a side project, I am not sure if I will promote it further...
-
-- [The Reveal - Website](https://www.danielkeyes.dev/thereveal/)
-- [The Reveal - Appstore](https://play.google.com/store/apps/details?id=dev.danielkeyes.thereveal)
-
 <!--
 **danielkeyes/danielkeyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
