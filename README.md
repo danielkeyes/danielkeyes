@@ -4,7 +4,11 @@ I currently do Android native development for a financial institution.
 
 ### What I use Github for
 
-I recently moved to Github as my version control of choice for my learning/side projects. Most my projects I keep private and only share with those who I collaborate with or solicit feedback from. I do have some public projects.
+I have some public projects of app ideas and learning apps.
+
+A lot of my projects are private because they are codelabs, or used just for trying something new out.
+
+Github makes it easy for me to get to my projects from the way too many of computers I have.
 
 ### What Else
 
@@ -23,7 +27,10 @@ He/Him
 
 ## Fun facts:
 
-I love dogs. I am newly vegetarian(1+ year). 
+- I love dogs. 
+- I am a vegetarion.  
+- I have 75+ board games and counting
+- I have an identical twin
  
 ## Links to me:
 
