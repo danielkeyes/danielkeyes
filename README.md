@@ -8,7 +8,7 @@ I have some public projects of app ideas and learning apps.
 
 A lot of my projects are private because they are codelabs, or used just for trying something new out.
 
-Github makes it easy for me to get to my projects from the way too many of computers I have.
+Github makes it easy for me to get to my projects from any of the way too many computers I have.
 
 ### What Else
 
