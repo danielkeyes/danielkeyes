@@ -28,7 +28,7 @@ He/Him
 ## Fun facts:
 
 - I love dogs. 
-- I am a vegetarion.  
+- I am a vegetarian.  
 - I have 75+ board games and counting
 - I have an identical twin
  
