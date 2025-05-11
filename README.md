@@ -1,6 +1,8 @@
 ### About me
 
-I currently do Android native development for a financial institution.
+I currently do Android native development for a financial institution. 
+
+I love spending my free time with my wife Jessica and son Dean.
 
 ### What I use Github for
 
@@ -27,8 +29,7 @@ He/Him
 
 ## Fun facts:
 
-- I love dogs. 
-- I am a vegetarian.  
+- I love dogs
 - I have 75+ board games and counting
 - I have an identical twin
  
