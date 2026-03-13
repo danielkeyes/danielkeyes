@@ -4,6 +4,8 @@ I currently do Android native development for a financial institution.
 
 I love spending my free time with my wife Jessica and son Dean.
 
+I hold both a Bachelor’s and a Master’s degree in Computer Science.
+
 ### What I use Github for
 
 I have some public projects of app ideas and learning apps.
@@ -29,15 +31,14 @@ He/Him
 
 ## Fun facts:
 
-- I love dogs
-- I have 75+ board games and counting
+- I Play and Collect Magic the Gathering
 - I have an identical twin
+- I haven't owned an iPhone in ~15 years
+
  
 ## Links to me:
 
-- [My Website - danielkeyes.dev](https://www.danielkeyes.dev/)
 - [Linkedin - danielkeyesdev](https://www.linkedin.com/in/danielkeyesdev/)
-- [Twitter - danielkeyesdev](https://twitter.com/danielkeyesdev)
 
 <!--
 **danielkeyes/danielkeyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
